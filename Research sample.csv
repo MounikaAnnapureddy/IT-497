@@ -1,4 +1,4 @@
-Dataset Name,Accuracies across all kernels
+DatasetName,Kernel Accuracies
 Tomcat_AM,87
 Tomcat_CS,91
 Tomcat_GR,90
