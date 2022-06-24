@@ -1,0 +1,12 @@
+DatasetName,Accuracies_kernels
+Tomcat_AM,87
+Tomcat_CS,91
+Tomcat_GR,90
+Tomcat_IG,91
+Tomcat_LR,93
+Tomcat_OneR,88
+Tomcat_PCA,90
+Tomcat_CFS,93
+Tomcat_CSE,88
+Tomcat_FSE,93
+Tomcat_RSA,90
